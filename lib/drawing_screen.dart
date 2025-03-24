@@ -5,6 +5,10 @@ import 'dart:typed_data';
 import 'package:path_provider/path_provider.dart';
 import 'dart:io';
 
+
+// screenshot: ^2.1.0
+//   path_provider: ^2.0.15
+
 // Shape Types
 enum ShapeType { point, line, rectangle, circle }
 
